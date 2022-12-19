@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brettmulderit" alt="brettmulderit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/brettmulder_" target="blank"><img src="https://img.shields.io/twitter/follow/brettmulder_?logo=twitter&style=for-the-badge" alt="brettmulder_" /></a> </p>
-
 - 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **NextJS**
@@ -16,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brettmulder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brettmulder_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brett mulder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brett mulder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/brett-mulder-0ba936197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brett mulder" height="30" width="40" /></a>
 <a href="https://instagram.com/brettmulder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brettmulder_" height="30" width="40" /></a>
 </p>
 
